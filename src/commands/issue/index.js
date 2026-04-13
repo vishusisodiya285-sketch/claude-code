@@ -1,3 +1,3 @@
-export default { isEnabled: () => false, isHidden: true, name: 'stub' };
+export default { isEnabled: () => true, isHidden: false, name: 'stub' };
 
 
